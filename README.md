@@ -1,2 +1,2 @@
 ## 公開URL
-https://geekhouse.github.io/rooms/
+https://geekhouse.github.io/spaces/
